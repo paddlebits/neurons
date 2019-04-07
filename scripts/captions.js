@@ -5818,6 +5818,209 @@ window.Captions = {
 			"extra8": "Стикайся зі своїми страхами у безпечному просторі.",
 				
 		}
+	},
+
+	// Danish
+	"da": {
+		label: "Dansk",
+		captions: {
+
+			//////////////////
+			// INTRODUCTION //
+			//////////////////
+
+			"intro0": "Engang havde jeg angst.",
+			"intro1": "Og det gav mig angst OM AT have angst.",
+			"intro2": "Der var angst over det hele.",
+			"intro3": "",
+
+			/////////////////
+			// PROPAGATION //
+			/////////////////
+
+			"prop0": "Hej, jeg hedder Nicky Case,",
+			"prop1": "og dette er en interaktiv forklaring om hjerneceller.",
+			"prop2": "Jep! Du kan faktisk klikke på dem her",
+			"prop3": "♬ så bare slå dig løs ♬",
+			"prop4": "Klik på en neuron, og se hvad der sker.",
+
+			"prop5": "UNDSKYLD mig, jeg taler!... Ej, bare for sjov.",
+
+			"prop6": "Wow, du går virkelig til den.",
+			"prop7": "Fedt. Jeg er med. Fantastisk.",
+
+			"prop8": "Ja!",
+			"prop8.5": "Se hvordan signalerne breder sig,",
+			"prop9": "fra celle til celle til celle.",
+			"prop10": "Prøv at klikke lidt mere.",
+
+			"prop11": "Det er en forenklet model,",
+			"prop12": "men sådan her fungerer neuroner stort set.",
+			"prop13": "En tanke udløser en anden, og så videre,",
+			"prop14": "men... i en ÆNGSTELIG hjerne...",
+
+			"mesmerizing": "Det er hypnotiserende, ikke?",
+
+			//////////////
+			// MY FEARS //
+			//////////////
+
+			"fear0": "sker DET HER.",
+			"fear1": "Uskyldige tanker er forbundet til ængstelige tanker.",
+			"fear2": "Jeg var engang SÅ bange for at blive anset som mislykket,",
+			"fear3": "at være tæt på andre,",
+			"fear4": "og for...",
+			"fear5": "huller.",
+			"fear6": "Fordi... jeg ved ikke hvorfor, men tæt samlede huller",
+			"fear7": "giver mig bare myrekryb, du ved? Jeg ved ikke.",
+
+			//////////////////////
+			// HEBBIAN LEARNING //
+			//////////////////////
+
+			"hebb0": "[LYD]",
+			"hebb1": "Men hvordan lærer vi frygt i første omgang?",
+			"hebb2": "For at forklare det, fjerner jeg dette...",
+			"hebb3": "og giver dig...",
+			"hebb4": "det her!",
+
+			"hebb5": "Hebbiansk indlæring!",
+			"hebb6": "“Neuroner som affyres sammen, kobles sammen.”",
+
+			"hebb7": "Det er en tommelfingerregel hjerneforskere bruger til at",
+			"hebb8": "forklare hvordan hjerneceller danner forbindelser.",
+			"hebb9": "Hvis du først affyrer én neuron, og så en anden,",
+			"hebb10": "vil den første neuron koble sig til den anden.",
+			"hebb11": "Prøv selv!",
+
+			"hebb12": "For langsomt! Du klikkede ikke hurtigt nok. Prøv igen?",
+			"hebb13": "For langt væk. Prøv nogle andre neuroner.",
+
+			"hebb14": "Og sådan lærer vi ting.",
+			"hebb15": "I virkeligheden lærer vi ikke så hurtigt,",
+			"hebb16": "jeg har sat farten op på simulationen, men alligevel.",
+			"hebb17": "Prøv at lege lidt, lave nogle flere forbindelser,",
+			"hebb18": "måske en kæde eller noget.",
+
+			"hebb19": "Reglen betyder, at hvis du blev bidt af en hund som barn,",
+			"hebb20": "er du måske blevet bange for hunde!",
+			"hebb21": "Fordi din neuron 'hund' blev affyret, og så din neuron 'smerte'.",
+			"hebb22": "Og derfor blev 'hund' forbundet med 'smerte'.",
+
+			///////////////////////////
+			// ANTI-HEBBIAN LEARNING //
+			///////////////////////////
+
+			"anti0": "Hvis vi LÆRER sådan, så kan vi AFLÆRE med...",
+			
+			"anti1": "Anti-Hebbiansk indlæring",
+			"anti2": "“Neuroner som affyres separat, mister forbindelsen.”",
+			
+			"anti3": "En anden tommelfingerregel for hjerneforskere.",
+
+			"anti4": "Hvis du har en forbindelse mellem to neuroner,",
+			"anti5": "og du affyrer den første neuron UDEN at affyre den anden",
+			"anti6": "bliver forbindelsen svagere.",
+			"anti7": "Igen, prøv det.",
+
+			"anti8": "Den celle havde ingen forbindelser.",
+			"anti9": "Du skal bruge en der er forbundet.",
+			"anti10": "Den celle havde kun forbindelser TIL sig, men ingen FRA sig.",
+			"anti11": "Du skal bruge en neuron der har forbindelser ud fra sig.",
+
+			"anti12": "Okay og så vent...",
+			"anti13": "Se! Forbindelsen blev svagere!",
+			"anti14": "Prøv det igen, og forbindelsen bliver helt udslettet.",
+
+			"anti15": "Denne regel betyder, at hvis du er bange for hunde,",
+			"anti16": "og du møder venlige hunde igen og igen,",
+			"anti17": "kan du aflære din frygt.",
+			"anti18": "Neuronen 'hund' affyres, UDEN neuronen 'smerte',",
+			"anti19": "og så - bliver forbindelsen svagere.",
+
+			/////////////
+			// THERAPY //
+			/////////////
+
+			"ther0": "Nu du ved hvordan vi lærer og aflærer, lad os gå tilbage...",
+			"ther1": "...til det her.",
+
+			"ther2": "Du skal træne denne hjerne om.",
+			"ther3": "Lav om på forbindelserne på disse tre ting,",
+			"ther4": "fra at føle frygt, til at føle tryghed.",
+
+			"ther5": "Se, at lave nye forbindelser kan skabe angst på kort sigt...",
+			"ther6": "... men det er SÅ MEGET det værd i det lange løb.",
+
+			"ther7": "Det var en. To tilbage.",
+			"ther8": "Det var to. En tilbage.",
+			"ther9": "jeg. kan. stadig. ikke. lide. huller.",
+
+			"ther10": "Og... du gjorde det!",
+
+			"ther11": "Det du gjorde kaldes 'eksponeringsterapi',",
+			"ther12": "en af de mest bevis-støttede former for terapi",
+			"ther13": "for specifikke fobier, PTSD, og andre angstlidelser.",
+
+			///////////
+			// OUTRO //
+			///////////
+
+			"outro0": "I det virkelig liv er det ikke let, eller hurtigt,",
+			"outro1": "men det kan lade sig gøre.",
+			"outro2": "Jeg lover dig -- Jeg er levende bevis --",
+			"outro3": "Det kan lade sig gøre.",
+
+			/////////////
+			// CREDITS //
+			/////////////
+
+			"cred0": "Tusind tak til alle der støtter mig på Patreon. Uden dem",
+			"cred1": "kunne jeg ikke lave disse underlige interaktive ting,",
+			"cred2": "og ville være nødt til at få et rigtigt job.",
+			"cred3": "Så hvis du gerne vil hjælpe mig med at lave ting,",
+			"cred4": "og blive anderkendt i den næste ting jeg laver,",
+			"cred5": "tag et kig på min Patreon!",
+
+			"cred6": "Musikken du lytter til er lavet af den vidunderlige Phyrnna,",
+			"cred7": "som jeg har samarbejdet med før, på to projekter jeg aldrig gjorde færdig.",
+
+			"cred8": "Hvis du vil se en anden interaktiv forklaring, så kig på Parable of the Polygons!",
+			"cred9": "Jeg lavede den i samarbejde med Vi Hart -- ja, *den* Vi Hart! :D --",
+			"cred10": "om systemisk bias og mangfoldighed.",
+
+			"cred11": "Og husk, denne interaktive forklaring var bare en introduktion.",
+			"cred12": "Hvis du vil vide mere, se *absolut* under 'Further Reading'",
+			"cred13": "i beskrivelsen nedenfor.",
+
+			"cred14": "Eeeeller du kan lege med sandkassen til venstre",
+			"cred15": "for det er faktisk ret sjovt.",
+
+			"cred16": "Uanset hvad, mange, mange tak fordi du kiggede med.",
+			"cred17": "",
+			"cred18": "øh, spillede?... kiggede?",
+			"cred19": "",
+			"cred20": "killede.",
+			"cred21": "Tusind tak fordi du killede med.",
+
+			//////////////////
+			// EXTRA SHTUFF //
+			//////////////////
+
+			"extra0": "At lave nye forbindelser kan skabe angst på kort sigt,",
+			"extra1": "men det er så meget det værd i det lange løb.",
+
+			"extra2": "En tillært frygt.",
+			"extra3": "Frygten udslukkes.",
+
+			"extra4": "Whoo!",
+			"extra5": "ta-dahhh~",
+
+			"extra6": "Se, tricket er at EKSPONERE dig selv for det du er bange for,",
+			"extra7": "men på en tryg måde.",
+			"extra8": "Se din frygt i øjnene, i sikre omgivelser.",
+				
+		}
 	}
 
 };
